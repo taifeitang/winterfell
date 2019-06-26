@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 
 public class BubbleSort{
-	/*´ÓÐ¡µ½´óÃ°ÅÝÅÅÐò*/
+	/*冒泡排序*/
 	public  static int[] bubble(int[] arr){
 		int temp;
 		for(int i=0;i<arr.length-1;i++){
