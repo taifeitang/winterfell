@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 
 public class BubbleSort{
-	/*从小到大冒泡排序*/
+	/*麓脫脨隆碌陆麓贸脙掳脜脻脜脜脨貌*/
 	public  static int[] bubble(int[] arr){
 		int temp;
 		for(int i=0;i<arr.length-1;i++){
@@ -21,9 +21,9 @@ public class BubbleSort{
 	}
 	
 	public static void main(String[] args) {
-		int[] arr=new int[]{3,5,1,2,6,4};
-        bubble(arr);
-        System.out.println(Arrays.toString(arr));
+	     int[] arr=new int[]{3,5,1,2,6,4};
+             bubble(arr);
+             System.out.println(Arrays.toString(arr));
 	}
 
 }
